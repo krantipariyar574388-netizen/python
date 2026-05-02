@@ -30,16 +30,10 @@
     "faculty": "BBA"
   },
   {
-    "id": 6,
-    "name": "Prabin Basnet",
-    "age": 0,
-    "faculty": "string"
-  },
-  {
     "id": 7,
-    "name": "Prabin Basnet",
-    "age": 0,
-    "faculty": "string"
+    "name": "Monika",
+    "age": 19,
+    "faculty": "BBS"
   },
   {
     "id": 8,
@@ -49,8 +43,8 @@
   },
   {
     "id": 9,
-    "name": "Monika",
-    "age": 19,
-    "faculty": "BBS"
+    "name": "sabitri",
+    "age": 18,
+    "faculty": "BBA"
   }
 ]
