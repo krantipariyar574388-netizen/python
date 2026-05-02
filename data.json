@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Kranti Pariyar",
+    "age": 22,
+    "faculty": "BCA"
+  },
+  {
+    "id": 2,
+    "name": "Surakshya Khatri",
+    "age": 21,
+    "faculty": "BCA"
+  },
+  {
+    "id": 3,
+    "name": "Priyasha Shah",
+    "age": 23,
+    "faculty": "BBS"
+  },
+  {
+    "id": 4,
+    "name": "Prabin Basnet",
+    "age": 24,
+    "faculty": "CSIT"
+  },
+  {
+    "id": 5,
+    "name": "Manoj Bhandari",
+    "age": 23,
+    "faculty": "BBA"
+  },
+  {
+    "id": 6,
+    "name": "Prabin Basnet",
+    "age": 0,
+    "faculty": "string"
+  },
+  {
+    "id": 7,
+    "name": "Prabin Basnet",
+    "age": 0,
+    "faculty": "string"
+  },
+  {
+    "id": 8,
+    "name": "Laxmi Rawat",
+    "age": 23,
+    "faculty": "CSIT"
+  },
+  {
+    "id": 9,
+    "name": "Monika",
+    "age": 19,
+    "faculty": "BBS"
+  }
+]

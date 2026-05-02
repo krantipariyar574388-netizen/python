@@ -1,13 +1,12 @@
-from fastapi import FastAPI, HTTPException
-from starlette.responses import JSONResponse
-# import json
-# from pydantic import BaseModel
+from fastapi import FastAPI
+from fastapi.responses import JSONResponse
+import json
+from pydantic import BaseModel
 
-# class CreateUserRequest(BaseModel):
-#     id : int
-#     name : str
-#     age : int
-#     faculty : str 
+class CreateUserRequest(BaseModel):
+    name : str
+    age : int
+    faculty : str 
 
 app = FastAPI()
 
@@ -49,7 +48,8 @@ def get_user_by_id(user_id: int):
             content = {'message': 'user with id doesnot exist'.format(user_id)},
         )
 
-# @app.get("/")
-# def create_user(create_user_payload : CreateUserRequest):
+# # @app.get("/")
+# # def create_user(create_user_payload : CreateUserRequest):
 
-#     return "OK"
+# #     return "OK"
+
